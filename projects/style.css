@@ -1,0 +1,59 @@
+#dummycmn {
+    margin: 5px;
+    font-family: 'Noto Serif CJK TC', 'Source Han Serif', serif;
+    color: #ffff00;
+    background-color: #EE1C25;
+}
+h2 {
+    color: #ffd700;
+    background-color: #8A1538;
+    width: 40%;
+    height: 29px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+       
+ol {
+   color: #9932cc;
+   font-size: small;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: 900;
+}
+        
+.header {
+   color: orange;
+   font-family: monospace;
+}
+       
+.wc22 {
+   background-color: rgba(128, 0, 128, 0.354);
+}
+       
+.dummy {
+   background-color: gainsboro;
+   cursor: help;
+   border: 5px double rgba(128, 0, 128, 0.354);
+   margin: 5px;
+   margin-bottom: 15px;
+   border-bottom: 5px double rgba(128, 0, 128, 0.354);
+}
+        
+#dummyeng {
+   margin: 5px;
+   color: rgb(207, 9, 31);
+   background-color: white;
+}
+        
+#dummyben {
+   margin: 5px;
+   font-family: 'Kalpurush';
+   font-size: large;
+}
+        
+#dummyheb {
+   border-top: 7px solid #0038b8;
+   border-bottom: 7px solid #0038b8;
+   margin: 5px;
+   text-align: right;
+   font-family: 'IBM Plex Sans Hebrew Light';
+   background-color: white;
+}
